@@ -1,3 +1,10 @@
 .playlist {
     display: flex;
 }
+li {
+    border-top: black;
+}
+.play {
+    background-color: red;
+    border-radius: 100%;
+}
